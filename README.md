@@ -1,4 +1,4 @@
 DivinePie
 =========
 
-Art 440 Divine Pie Website
+Divine Pie Website
